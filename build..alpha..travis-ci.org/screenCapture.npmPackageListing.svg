@@ -1,20 +1,20 @@
 <svg height="270" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="270" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 15:07:58 +0000   109930 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 15:07:58 +0000     1022 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 15:07:58 +0000     2320 bytes  dist/core.js</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 15:07:58 +0000     1952 bytes  dist/core.js.map</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 15:07:58 +0000    13115 bytes  dist/index.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 15:07:58 +0000    22126 bytes  dist/index.js.map</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 15:07:58 +0000    12544 bytes  dist/web.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 15:07:58 +0000    18256 bytes  dist/web.js.map</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 15:07:58 +0000     1856 bytes  gulpfile.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 15:07:58 +0000     1439 bytes  history.md</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 15:07:58 +0000     1188 bytes  package.json</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 15:07:58 +0000    10383 bytes  readme.md</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 15:07:58 +0000     2571 bytes  test/integration/index.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-21 15:07:58 +0000    18506 bytes  test/lib/index.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-21 15:07:58 +0000     2652 bytes  test/lib/web.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 15:09:07 +0000   109930 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 15:09:07 +0000     1022 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 15:09:07 +0000     2320 bytes  dist/core.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 15:09:07 +0000     1952 bytes  dist/core.js.map</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 15:09:07 +0000    13115 bytes  dist/index.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 15:09:07 +0000    22126 bytes  dist/index.js.map</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 15:09:07 +0000    12544 bytes  dist/web.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 15:09:07 +0000    18256 bytes  dist/web.js.map</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 15:09:07 +0000     1856 bytes  gulpfile.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 15:09:07 +0000     1439 bytes  history.md</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 15:09:07 +0000     1188 bytes  package.json</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 15:09:07 +0000    10383 bytes  readme.md</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 15:09:07 +0000     2571 bytes  test/integration/index.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 15:09:07 +0000    18506 bytes  test/lib/index.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 15:09:07 +0000     2652 bytes  test/lib/web.js</tspan>
 </text>
 </svg>
